@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LisTodo</string>
+    <string name="button">Add Item</string>
+    <string name="add_a_task">Add a Task</string>
+</resources>
